@@ -1,4 +1,8 @@
 # Olá! Eu sou o David 👋
+![Power BI](https://img.shields.io/badge/Power_BI-F1C912?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 
 ### Dados | Business Intelligence | Automação de Processos
 
